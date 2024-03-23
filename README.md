@@ -1,4 +1,5 @@
-Sure, here are the AWS CLI commands for each section or task:
+![aws_lab1](https://github.com/Mouhamed-Jinja/LAB1-AWS-Data-Engineering-75653/assets/132110499/7c527709-a7f0-419b-bb15-c6f17b4a4cb4)
+
 
 **Task 1: Creating a CloudFormation template and stack**
 1. Use the AWS CLI to create a CloudFormation template:
